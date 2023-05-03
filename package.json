@@ -1,0 +1,9 @@
+{
+  "name": "lightquark-emote-importer",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "dotenv": "^16.0.3",
+    "sharp": "^0.32.1"
+  }
+}
